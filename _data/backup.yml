@@ -140,6 +140,7 @@ websites:
     tfa: Yes
     software: Yes
     img: koofr.png
+    otp: Yes
     doc: https://koofr.eu/help/other/how-do-i-enable-2-step-verification/
 
   - name: Mega
